@@ -80,13 +80,5 @@ a:hover {
 }
 
 /* Responsive Styling */
-@media screen and (max-width: 600px) {
-    form input[type="text"] {
-        width: 70%;
-    }
-
-    form button {
-        width: 30%;
-        margin-left: 5px;
-    }
+@
 }
